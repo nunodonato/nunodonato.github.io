@@ -1,7 +1,9 @@
 ---
 published: true
 title: Switching to FastMail
-tags: 'email, sync,'
+tags:
+  - email
+  - Personal Information Management
 ---
 I finally took the plunge and subscribed for a year of [FastMail](https://www.fastmail.com)'s email service. I've been looking for a new email provider for sometime. Trying more and more to slowly leave Google's ecosystem towards something more open and less controlled by a huge corporation.
 
