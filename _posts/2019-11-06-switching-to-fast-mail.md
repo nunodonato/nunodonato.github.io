@@ -1,10 +1,8 @@
 ---
-published: false
+published: true
 title: Switching to FastMail
 tags: 'email, sync,'
 ---
-## Switching to FastMail
-
 I finally took the plunge and subscribed for a year of [FastMail](https://www.fastmail.com)'s email service. I've been looking for a new email provider for sometime. Trying more and more to slowly leave Google's ecosystem towards something more open and less controlled by a huge corporation.
 
 So why FastMail? Well, many reasons:
@@ -26,4 +24,3 @@ I decided to create a "Temporary" archive folder, which deletes messages after 3
 FastMail also recentely introduced a "snooze" feature, which brings emails back to the inbox after a specified interval. This was a great feature of Google's Inbox, loved by many and - god knows why - was killed.
 
 All in all, I'm really enjoying my new email! 3 out of my 5 accounts are already being forwarded/imported to FastMail, which means I'm using FastMail more than Gmail. I intend to move the rest until the end of the year, and eventually phase out a few of these addresses.
-
