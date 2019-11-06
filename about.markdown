@@ -2,17 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi I'm Nuno Donato!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is my simple blog to jot down my thoughts related with many tec-related things.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I do programming, web development and game development. But I also enjoy doing experiments and talking about 3D art, linux and opensource.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I'm creating this blog on github pages using Jekyll, so bear with me while I try to find time to tune it into a proper blog :)
