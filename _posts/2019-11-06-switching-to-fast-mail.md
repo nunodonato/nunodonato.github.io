@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Switching to FastMail
 tags: 'email, sync,'
 ---
@@ -26,4 +26,3 @@ I decided to create a "Temporary" archive folder, which deletes messages after 3
 FastMail also recentely introduced a "snooze" feature, which brings emails back to the inbox after a specified interval. This was a great feature of Google's Inbox, loved by many and - god knows why - was killed.
 
 All in all, I'm really enjoying my new email! 3 out of my 5 accounts are already being forwarded/imported to FastMail, which means I'm using FastMail more than Gmail. I intend to move the rest until the end of the year, and eventually phase out a few of these addresses.
-
