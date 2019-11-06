@@ -30,7 +30,7 @@ twitter_username: nunodonato
 github_username:  nunodonato
 
 # Build settings
-theme: dayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
