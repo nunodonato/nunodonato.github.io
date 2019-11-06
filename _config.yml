@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nuno Donato's tech journal
+title: Nuno Donato's blog
 email: nunodonato@fastmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog. This is where I write all my tech-related thoughts and experiments. Software, open source, 
