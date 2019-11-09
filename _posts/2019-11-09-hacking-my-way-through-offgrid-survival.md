@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+categories:
+  - Solar
 ---
 ### Intro
 
@@ -72,3 +74,13 @@ This will allow for more watertank-heater-uptime and still safely save the batte
 Can't wait to finish it and put it up and see the difference in hot-water-availability in a week or two.
 
 Haven't yet researched on how to communicate with the plug from a simple script, but hopefully won't be hard. I was hoping ifttt would help me on that, but its pretty much useless unless you want to use pre-made flows and integrations.
+
+**Extras**
+
+Whenever I want to check the stats of the inverter on my phone I need to open firefox and browse to a specific page. This takes a lot of time (mostly because my phone is old and sluggish). A really nice thing to have would be a home-screen widget which would display the most recent data. 
+
+Anyone knows an easy way to do this without having to sink hours of learning android development? :)
+
+Similarly, I'm planning to do a "widget" for my Gnome top bar. This allows me to monitor the system without opening up any extra stuff.
+
+I'll post again with the results of this experiment. Thanks for reading!
