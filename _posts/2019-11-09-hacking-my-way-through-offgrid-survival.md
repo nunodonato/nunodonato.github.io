@@ -54,3 +54,21 @@ Now I just needed a way to monitor things easily from my phone. To do that I cre
 Now I can just browse to a specific page to check the current and last-60min stats:
 
 ![](https://i.imgur.com/4mmrLX5.png)
+
+By the way, that is how awful the PV production is on a cloudy-day!
+
+With this system in place, I can safely be outside the house and text my wife when its safe, for example, to turn on the dishwasher. She hasn't yet had a crash-course in understanding voltages and such, mostly because I'm also trying to get a better feel of how it fluctuates with different power draws and different inputs (crazy, actually, but I blame it on the lead-acid)
+
+My next step was to automate things a bit more. I realized I needed some more techie stuff when last week we were out for 5 days and returned to a cold water tank and cloudy days. If I was able to turn on the water heater at a distance, it would be perfect!
+
+So I ordered [this Sonoff smart plug](https://sonoff.tech/product/wifi-smart-plugs/s26) which allows me to do just that. it also connects to Alexa, google home, ifttt, etc, but I dont really use any of that.
+
+I'm now working on another script to run every X minutes on the Pi to monitor the inverter data and turn the water heater on/off accordingly. The decision flow will be like this
+
+![](https://i.imgur.com/R2VLIfN.png)
+
+This will allow for more watertank-heater-uptime and still safely save the batteries, without human intervention.
+
+Can't wait to finish it and put it up and see the difference in hot-water-availability in a week or two.
+
+Haven't yet researched on how to communicate with the plug from a simple script, but hopefully won't be hard. I was hoping ifttt would help me on that, but its pretty much useless unless you want to use pre-made flows and integrations.
