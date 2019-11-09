@@ -35,7 +35,7 @@ Even though I'm very tech oriented, I'm also pro-simpleliving, so I first look i
 
 **Low/no-tech ideas**
 
-Our 100L water tank heater has a 15000wh resistance. It is the appliance which consumes more electricity in our household (no surprise there). The dishwasher consumes 2000wh, but just for 20min, so a full-cycle is usually around 650wh. If we want hot water for baths, depending on the water temperature inside the tank, we can be looking at 1-2-3hrs of usage, which really drains the battery quite fast in case there's no sufficient power from the panels.
+Our 100L water tank heater has a 1500wh resistance. It is the appliance which consumes more electricity in our household (no surprise there). The dishwasher consumes 2000wh, but just for 20min, so a full-cycle is usually around 650wh. If we want hot water for baths, depending on the water temperature inside the tank, we can be looking at 1-2-3hrs of usage, which really drains the battery quite fast in case there's no sufficient power from the panels.
 
 Luckily, my water tank has an easy way to choose the target temperature. Even though we dont need it higher than 40ºC, I use this as an alternative battery bank. usually the temperature is set at 70ºC and I let it heat as much as possible during sunny days. The water gets so hot that we end up using less of it. By doing this, we can have hot water of baths for 2-3 days, without needing to turn it on at all.
 
